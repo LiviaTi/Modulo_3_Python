@@ -1,6 +1,0 @@
-1. Escreva um programa chamado read_file.py que recebe um nome de arquivo como
-argumento e exibe o conteúdo do arquivo na tela.
-2. O programa deve lidar corretamente e as seguintes exceções devem ser explicitamente
-tratadas: FileNotFoundError e IsADirectoryError.
-3. Qualquer outra exceção deverá exibir uma mensagem de erro amigável de sua
-escolha, mostrando o nome original da exceção:
